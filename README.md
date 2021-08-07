@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kimonic99
-- 👀 I’m interested in game development but i'm focuse on front end web dev for now
+- 👀 I’m interested in game development but i'm focused on front end web dev for now
 - 🌱 I’m currently learning "Javascript"
 - 💞️ I’m looking to collaborate on any type of projects requiring front end engineer or cloud computing expert
 - 📫 You can contact me via email @ aimuaimarengiaye@gmail.com
