@@ -5,7 +5,7 @@
 - 📫 You can contact me via email @ aimuaimarengiaye@gmail.com
 
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64bd68278b7b0932738001fc?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64bd68278b7b0932738001fc?variant=dark)](https://roadmap.sh)
 
 <!---
 Kimonic99/Kimonic99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
