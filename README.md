@@ -1,8 +1,8 @@
 ### Hi there 👋
 - 👀 I’m interested in game development.
-- 🌱 Working to better develop the web.
+- 💻 Working to better develop the web.
 - 🌱 I’m currently learning C# and the .NET Framework
-- 📫 You can contact me via email @ aimuaimarengiaye@gmail.com
+- 📫 You can contact me via email aimuaimarengiaye@gmail.com
 
 <br /> <hr />
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64bd68278b7b0932738001fc?variant=dark&roadmaps=qa%2Cprompt-engineering)](https://roadmap.sh)
