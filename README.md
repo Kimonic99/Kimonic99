@@ -5,7 +5,8 @@
 - 📫 You can contact me via email aimuaimarengiaye@gmail.com
 
 <br /> <hr />
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64bd68278b7b0932738001fc?variant=dark&roadmaps=qa%2Cprompt-engineering)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/tall/64bd68278b7b0932738001fc?variant=dark)](https://roadmap.sh)
+
 <br /> <hr />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimonic99&show_icons=true&theme=chartreuse-dark)
 <br /> <hr />
